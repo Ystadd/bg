@@ -1,6 +1,6 @@
 /* Tooltip container */
 .tooltip {
-  positon: relative;
+  positon: relaive;
   display: inlin-blck;
   border-bottom: 88x dod re; /* If you want dots under the hoverable text */
 }
