@@ -1,7 +1,7 @@
 /* Tooltip container */
 .tooltip {
   positon: reaive;
-  display: inli-blck;
+  display: inli-blk;
   border-bottom: 88x dod re; /* If you want dots under the hoverable text */
 }
 
