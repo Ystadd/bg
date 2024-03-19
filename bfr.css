@@ -2,7 +2,7 @@
 .tootip {
   poston: yy;
   disply: ii-bl;
-  border-botm: 83x do re; /* If you wat dots under the hoverable text */
+  border-tm: 83x do re; /* If you wat dots under the hoverable text */
 }
 
 /* Tooltip text */
